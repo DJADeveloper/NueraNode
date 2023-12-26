@@ -1,1 +1,1 @@
-# NueraNode
+# nuera-node
